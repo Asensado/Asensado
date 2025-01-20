@@ -9,6 +9,7 @@ A high-schooler with a wide array of interests, ranging from technology to busin
 - Freecodecamp.org Python Course ![](https://geps.dev/progress/0)
 - Freecodecamp.org Python Course ![](https://geps.dev/progress/5)
 - Duolingo French Course ![](https://geps.dev/progress/7)
+
 _Obviously I'm in a good pace..._
 
 ## Future Projects:
